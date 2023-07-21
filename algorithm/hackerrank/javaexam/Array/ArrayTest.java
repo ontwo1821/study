@@ -1,4 +1,4 @@
-package org.kunin;
+package javaexam.Array;
 
 import java.io.BufferedReader;
 import java.io.IOException;

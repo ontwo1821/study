@@ -1,4 +1,4 @@
-package org.kunin;
+package javaexam.For;
 
 import java.io.BufferedReader;
 import java.io.IOException;
