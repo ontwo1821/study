@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fa7b8df-f4e3-457b-8141-858480f9ac0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/javaexam/Generics/Solution.java" afterDir="false" />
+    <list default="true" id="3fa7b8df-f4e3-457b-8141-858480f9ac0c" name="Changes" comment="java generic">
+      <change afterPath="$PROJECT_DIR$/javaexam/Sort/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +64,23 @@
       <option name="presentableId" value="Default" />
       <updated>1689918166180</updated>
       <workItem from="1689918166313" duration="167000" />
-      <workItem from="1689918360029" duration="2112000" />
+      <workItem from="1689918360029" duration="5270000" />
     </task>
+    <task id="LOCAL-00001" summary="java generic">
+      <created>1689933736823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689933736823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="java generic" />
   </component>
 </project>
