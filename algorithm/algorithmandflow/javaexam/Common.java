@@ -185,7 +185,7 @@ public class Common {
     }
 
     public static void bubbleSort(int[] x, int n) {
-        for(int i = 1; i < n - 1; i++){
+        for(int i = 1; i < n; i++){
             maximumToLast(x, n - i);
         }
     }
